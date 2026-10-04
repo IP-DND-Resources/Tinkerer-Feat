@@ -1,7 +1,7 @@
 <!-- https://homebrewery.naturalcrit.com/share/8HDgv7fxPPNX -->
 
 <div class='artist' style='top:30px;right:100px;'>
-[v0.1.0](https://github.com/IP-DND-Resources/tinkerer-feat)
+[v0.1.1](https://github.com/IP-DND-Resources/Tinkerer-Feat)
 </div>
 
 <div class='artist' style='top:40px;right:100px;'>
@@ -32,9 +32,9 @@ With 1 hour of light work or when you finish a Short or Long Rest you can perfor
 
 **Scrapper.** You can scrap a non-magical item. For each pound the scrapped item weighs, you receive 1 piece of scrap material. 
 
-**Crafter.** You can craft one non-magical item that uses a Tool you have Proficiency with. You must have the required amount of scrap for the required GP cost.
+**Crafter.** You can craft one non-magical item that uses a Tool you have Proficiency with, that isn't a weapon or armor. You must have the required amount of scrap for the required GP cost.
 
-{{imageMaskCorner11,--offsetX:-47%,--offsetY:-58%,--rotation:0
+{{imageMaskCorner15,--offsetX:-47%,--offsetY:-58%,--rotation:0
   ![](https://raw.githubusercontent.com/IP-DND-Resources/tinkerer-feat/refs/heads/main/img/goblin_tinkerer-mtg.jpg){bottom:-20px;left:0px;height:350px}
 }}
 <!-- Use --offsetX to shift the mask left or right (can use cm instead of %)
